@@ -2,14 +2,14 @@ export const list = {
   provider: "PANGOLIN_V1",
   chainId: "43114",
   name: "PANGOLIN_V1",
-  timestamp: "2024-09-25T15:31:06.827Z",
+  timestamp: "2024-10-12T00:00:51.232Z",
   version: {
     major: 1,
     minor: 0,
     patch: 0,
   },
   keywords: [],
-  count: 16,
+  count: 15,
   tokens: [
     {
       address: "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
@@ -80,16 +80,6 @@ export const list = {
       logoURI:
         "https://storage.googleapis.com/token-list-swapkit-dev/images/avax.spore-0x6e7f5c0b9f4432716bdd0a77a3601291b9d9e985.png",
       ticker: "SPORE",
-    },
-    {
-      address: "0x9d871BD3D730F416D5d06Ff8BC17bE4119070552",
-      chain: "AVAX",
-      chainId: "43114",
-      decimals: 18,
-      identifier: "AVAX.TERRA-0X9D871BD3D730F416D5D06FF8BC17BE4119070552",
-      logoURI:
-        "https://storage.googleapis.com/token-list-swapkit-dev/images/avax.terra-0x9d871bd3d730f416d5d06ff8bc17be4119070552.png",
-      ticker: "TERRA",
     },
     {
       address: "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
