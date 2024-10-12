@@ -2,14 +2,14 @@ export const list = {
   provider: "SUSHISWAP_V2",
   chainId: "1",
   name: "SUSHISWAP_V2",
-  timestamp: "2024-10-12T00:00:51.757Z",
+  timestamp: "2024-10-12T12:01:08.309Z",
   version: {
     major: 1,
     minor: 0,
     patch: 0,
   },
   keywords: [],
-  count: 91,
+  count: 89,
   tokens: [
     {
       address: "0x4Af698B479D0098229DC715655c667Ceb6cd8433",
@@ -202,16 +202,6 @@ export const list = {
       ticker: "DAI",
     },
     {
-      address: "0xE00639A1f59B52773b7d39d9F9beF07F6248dbAe",
-      chain: "ETH",
-      chainId: "1",
-      decimals: 18,
-      identifier: "ETH.DAOX-0XE00639A1F59B52773B7D39D9F9BEF07F6248DBAE",
-      logoURI:
-        "https://storage.googleapis.com/token-list-swapkit-dev/images/eth.daox-0xe00639a1f59b52773b7d39d9f9bef07f6248dbae.png",
-      ticker: "DAOX",
-    },
-    {
       address: "0x8f693ca8D21b157107184d29D398A8D082b38b76",
       chain: "ETH",
       chainId: "1",
@@ -240,16 +230,6 @@ export const list = {
       logoURI:
         "https://storage.googleapis.com/token-list-swapkit-dev/images/eth.dia-0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419.png",
       ticker: "DIA",
-    },
-    {
-      address: "0xBAac2B4491727D78D2b78815144570b9f2Fe8899",
-      chain: "ETH",
-      chainId: "1",
-      decimals: 18,
-      identifier: "ETH.DOG-0XBAAC2B4491727D78D2B78815144570B9F2FE8899",
-      logoURI:
-        "https://storage.googleapis.com/token-list-swapkit-dev/images/eth.dog-0xbaac2b4491727d78d2b78815144570b9f2fe8899.png",
-      ticker: "DOG",
     },
     {
       address: "0x1559FA1b8F28238FD5D76D9f434ad86FD20D1559",

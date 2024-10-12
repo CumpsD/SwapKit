@@ -212,16 +212,6 @@ export const list = {
       ticker: "ATA",
     },
     {
-      address: "0xc87b37a581ec3257b734886d9d3a581f5a9d056c",
-      chain: "ARB",
-      chainId: "42161",
-      decimals: 18,
-      identifier: "ARB.ATH-0xc87b37a581ec3257b734886d9d3a581f5a9d056c",
-      logoURI:
-        "https://storage.googleapis.com/token-list-swapkit-dev/images/arb.ath-0xc87b37a581ec3257b734886d9d3a581f5a9d056c.png",
-      ticker: "ATH",
-    },
-    {
       address: "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
       chain: "ARB",
       chainId: "42161",
@@ -2150,6 +2140,16 @@ export const list = {
       logoURI:
         "https://storage.googleapis.com/token-list-swapkit-dev/images/arb.weth-0xf26644f7d130ba86a3f6dcce875d87c4116a0e34.png",
       ticker: "WETH",
+    },
+    {
+      address: "0xad4b9c1fbf4923061814dd9d5732eb703faa53d4",
+      chain: "ARB",
+      chainId: "42161",
+      decimals: 18,
+      identifier: "ARB.WNT-0xad4b9c1fbf4923061814dd9d5732eb703faa53d4",
+      logoURI:
+        "https://storage.googleapis.com/token-list-swapkit-dev/images/arb.wnt-0xad4b9c1fbf4923061814dd9d5732eb703faa53d4.png",
+      ticker: "WNT",
     },
     {
       address: "0xcAFcD85D8ca7Ad1e1C6F82F651fA15E33AEfD07b",
